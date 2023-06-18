@@ -39,7 +39,7 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
 
 ## Alat dan Bahasa
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/BagasAuliaAlfasyam">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BagasAuliaAlfasyam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BagasAuliaAlfasyam&layout=compact&langs_count8=&theme=algolia"/>
