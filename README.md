@@ -21,22 +21,6 @@
 
 Salam! Saya Bagas Aulia Alfasyam, seorang Pelajar & Developer yang antusias dalam Game Developer, FrontEnd, Backend, Android Developer. Saya memiliki pengalaman dalam Game Developer dan selalu terbuka untuk belajar hal baru. Saya tertarik pada Game dan senang berbagi pengetahuan dan pengalaman saya dengan komunitas.
 
-### Proyek Utama
-
-Berikut adalah beberapa proyek yang pernah saya kerjakan:
-
-- **[Nama Proyek 1](link-proyek1):** Deskripsi singkat tentang proyek 1.
-- **[Nama Proyek 2](link-proyek2):** Deskripsi singkat tentang proyek 2.
-- **[Nama Proyek 3](link-proyek3):** Deskripsi singkat tentang proyek 3.
-
-### Kontribusi Open Source
-
-Saya juga berkontribusi pada beberapa proyek open source. Berikut adalah beberapa proyek yang saya kontribusikan:
-
-- **[Proyek Open Source 1](link-proyek1):** Deskripsi singkat tentang kontribusi 1.
-- **[Proyek Open Source 2](link-proyek2):** Deskripsi singkat tentang kontribusi 2.
-- **[Proyek Open Source 3](link-proyek3):** Deskripsi singkat tentang kontribusi 3.
-
 ### Temukan Saya di Internet
 
 Anda dapat terhubung dengan saya di platform lainnya:
