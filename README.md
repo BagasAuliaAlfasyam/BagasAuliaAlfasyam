@@ -52,7 +52,7 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
 - Email: Bagasaulia7@gmail.com
 - Pesan langsung di 082179736858
 
-## Alat dan Bahasa
+## Bahasa
 
 <p align="center">
   <a href="https://github.com/BagasAuliaAlfasyam">
@@ -68,4 +68,4 @@ Proyek-proyek yang saya bagikan di sini dilisensikan di bawah [jenis lisensi]. P
 ---
 Terima kasih telah mengunjungi profil saya di GitHub. Saya berharap kita bisa terhubung dan bekerja sama di masa depan!
 
-Disediakan dengan ❤️ oleh [Bagas Aulia Alfasyam](link-profil).
+Disediakan dengan ❤️ oleh [Bagas Aulia Alfasyam](https://github.com/BagasAuliaAlfasyam).
