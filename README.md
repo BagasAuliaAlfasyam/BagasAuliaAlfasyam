@@ -30,7 +30,7 @@ Saya senang menulis tentang pengalaman, tutorial, atau pemikiran saya di blog pr
 
 Anda dapat terhubung dengan saya di platform lainnya:
 
-- [LinkedIn](link-linkedin)
+- [LinkedIn]([link-linkedin](https://www.linkedin.com/in/bagasauliaalfasyam/))
 - [Twitter](link-twitter)
 - [Instagram](link-instagram)
 - [Website Pribadi](link-website)
