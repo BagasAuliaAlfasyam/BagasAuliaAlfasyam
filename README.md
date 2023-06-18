@@ -12,7 +12,8 @@
   </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=BagasAuliaAlfasyam&style=flat-square&color=blue" alt=""/></p>
-###BAGAS AULIA ALFASYAM
+
+## BAGAS AULIA ALFASYAM
 
 > Berdiri lah di mana engkau di hargai
 
