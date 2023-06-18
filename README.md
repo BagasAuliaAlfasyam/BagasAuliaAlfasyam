@@ -30,18 +30,16 @@ Saya senang menulis tentang pengalaman, tutorial, atau pemikiran saya di blog pr
 
 Anda dapat terhubung dengan saya di platform lainnya:
 
-- [LinkedIn]([link-linkedin](https://www.linkedin.com/in/bagasauliaalfasyam/))
-- [Twitter](link-twitter)
-- [Instagram](link-instagram)
-- [Website Pribadi](link-website)
+- [LinkedIn](https://www.linkedin.com/in/bagasauliaalfasyam/)
+- [Instagram](https://www.instagram.com/___agas_/)
+- [Website Pribadi](BagasAuliaAlfasyam.github.io/portofolio)
 
 ## Kontak
 
 Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya melalui:
 
-- Email: [email@example.com](mailto:email@example.com)
-- Pesan langsung di [LinkedIn](link-linkedin)
-- Pesan pribadi di [Twitter](link-twitter)
+- Email: [email@example.com](Bagasaulia@gmail.com)
+- Pesan langsung di [Whatsapp](082179736858)
 
 ## Lisensi
 
@@ -50,4 +48,4 @@ Proyek-proyek yang saya bagikan di sini dilisensikan di bawah [jenis lisensi]. P
 ---
 Terima kasih telah mengunjungi profil saya di GitHub. Saya berharap kita bisa terhubung dan bekerja sama di masa depan!
 
-Disediakan dengan ❤️ oleh [Nama Lengkap](link-profil).
+Disediakan dengan ❤️ oleh [Bagas Aulia Alfasyam](link-profil).
