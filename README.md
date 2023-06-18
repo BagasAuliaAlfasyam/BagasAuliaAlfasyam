@@ -13,15 +13,15 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=BagasAuliaAlfasyam&style=flat-square&color=blue" alt=""/></p>
 
-## BAGAS AULIA ALFASYAM
+### BAGAS AULIA ALFASYAM
 
 > Berdiri lah di mana engkau di hargai
 
-## Tentang Saya
+### Tentang Saya
 
 Salam! Saya Bagas Aulia Alfasyam, seorang Pelajar & Developer yang antusias dalam Game Developer, FrontEnd, Backend, Android Developer. Saya memiliki pengalaman dalam Game Developer dan selalu terbuka untuk belajar hal baru. Saya tertarik pada Game dan senang berbagi pengetahuan dan pengalaman saya dengan komunitas.
 
-## Proyek Utama
+### Proyek Utama
 
 Berikut adalah beberapa proyek yang pernah saya kerjakan:
 
@@ -29,7 +29,7 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 - **[Nama Proyek 2](link-proyek2):** Deskripsi singkat tentang proyek 2.
 - **[Nama Proyek 3](link-proyek3):** Deskripsi singkat tentang proyek 3.
 
-## Kontribusi Open Source
+### Kontribusi Open Source
 
 Saya juga berkontribusi pada beberapa proyek open source. Berikut adalah beberapa proyek yang saya kontribusikan:
 
@@ -37,7 +37,7 @@ Saya juga berkontribusi pada beberapa proyek open source. Berikut adalah beberap
 - **[Proyek Open Source 2](link-proyek2):** Deskripsi singkat tentang kontribusi 2.
 - **[Proyek Open Source 3](link-proyek3):** Deskripsi singkat tentang kontribusi 3.
 
-## Temukan Saya di Internet
+### Temukan Saya di Internet
 
 Anda dapat terhubung dengan saya di platform lainnya:
 
@@ -45,14 +45,14 @@ Anda dapat terhubung dengan saya di platform lainnya:
 - [Instagram](https://www.instagram.com/___agas_/)
 - [Website Pribadi](BagasAuliaAlfasyam.github.io/portofolio)
 
-## Kontak
+### Kontak
 
 Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya melalui:
 
 - Email: Bagasaulia7@gmail.com
 - Pesan langsung di 082179736858
 
-## Bahasa
+### Bahasa
 
 <p align="center">
   <a href="https://github.com/BagasAuliaAlfasyam">
@@ -60,6 +60,8 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BagasAuliaAlfasyam&layout=compact&langs_count8=&theme=algolia"/>
   </a>
 </p>
+
+### Bahasa Dan Alat
 
 ## Lisensi
 
