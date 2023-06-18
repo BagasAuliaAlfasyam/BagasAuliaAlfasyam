@@ -1,4 +1,4 @@
-![Web Developer](https://github.com/BagasAuliaAlfasyam/BagasAuliaAlfasyam/blob/main/fotoku%20-%20Copy.jpg)
+![Game Developer](https://github.com/BagasAuliaAlfasyam/BagasAuliaAlfasyam/blob/main/aowkoawk.jpg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bagasauliaalfasyam/">
