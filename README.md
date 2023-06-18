@@ -47,7 +47,8 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
 
 ### Bahasa Dan Alat
 <p align="center">
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.bfldr.com/S5BC9Y64/at/rmmt7gzrxj4m355sssbqqxv/U_Logo_Small_White_RGB_1C.svg" alt="unity" width="80" height="30"/> </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.bfldr.com/S5BC9Y64/at/rmmt7gzrxj4m355sssbqqxv/U_Logo_Small_White_RGB_1C.svg" alt="unity" width="80" height="30"/> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/blender_logo_socket.png" alt="blender" width="80" height="30"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a>
   <a href="https://www.adobe.com/adobe/photoshop" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="30" height="30"/> </a>
