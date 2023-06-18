@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bagasauliaalfasyam/">
-    <img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/___agas_/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=Bagasaulia7@gmail.com&tf=cm">
-    <img src="https://img.shields.io/badge/Bagasaulia7@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Bagasaulia7@gmail.com-808080?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=BagasAuliaAlfasyam&style=flat-square&color=blue" alt=""/></p>
