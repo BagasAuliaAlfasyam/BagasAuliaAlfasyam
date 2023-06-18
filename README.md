@@ -38,7 +38,7 @@ Anda dapat terhubung dengan saya di platform lainnya:
 
 Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya melalui:
 
-- Email: [email@example.com](Bagasaulia@gmail.com)
+- Email: [(Bagasaulia@gmail.com)]
 - Pesan langsung di [Whatsapp](082179736858)
 
 ## Lisensi
