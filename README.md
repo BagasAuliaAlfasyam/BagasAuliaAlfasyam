@@ -1,3 +1,17 @@
+![Web Developer](https://github.com/BagasAuliaAlfasyam/BagasAuliaAlfasyam/blob/main/fotoku-Copy.jpg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bagasauliaalfasyam/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/___agas_/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=Bagasaulia7@gmail.com&tf=cm">
+    <img src="https://img.shields.io/badge/vrizasizza@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=BagasAuliaAlfasyam&style=flat-square&color=blue" alt=""/></p>
 # BAGAS AULIA ALFASYAM
 
 > Berdiri lah di mana engkau di hargai
