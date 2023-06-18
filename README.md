@@ -22,10 +22,6 @@ Saya juga berkontribusi pada beberapa proyek open source. Berikut adalah beberap
 - **[Proyek Open Source 2](link-proyek2):** Deskripsi singkat tentang kontribusi 2.
 - **[Proyek Open Source 3](link-proyek3):** Deskripsi singkat tentang kontribusi 3.
 
-## Blog dan Tulisan
-
-Saya senang menulis tentang pengalaman, tutorial, atau pemikiran saya di blog pribadi. Anda dapat membaca beberapa tulisan saya di [nama-blog](BagasAuliaAlfasyam.github.io).
-
 ## Temukan Saya di Internet
 
 Anda dapat terhubung dengan saya di platform lainnya:
