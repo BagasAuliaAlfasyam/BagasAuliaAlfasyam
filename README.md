@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=Bagasaulia7@gmail.com&tf=cm">
-    <img src="https://img.shields.io/badge/vrizasizza@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Bagasaulia7@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=BagasAuliaAlfasyam&style=flat-square&color=blue" alt=""/></p>
