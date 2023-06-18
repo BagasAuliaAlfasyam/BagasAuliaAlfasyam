@@ -1,10 +1,10 @@
 # Nama Lengkap
 
-> Kutipan inspirasional atau moto pribadi Anda.
+> Berdiri lah di mana engkau di hargai
 
 ## Tentang Saya
 
-Salam! Saya [Nama Anda], seorang [profesi/pekerjaan] yang antusias dalam [minat Anda]. Saya memiliki pengalaman dalam [bidang keahlian Anda] dan selalu terbuka untuk belajar hal baru. Saya tertarik pada [topik atau teknologi tertentu] dan senang berbagi pengetahuan dan pengalaman saya dengan komunitas.
+Salam! Saya [Bagas Aulia Alfasyam], seorang [Pelajar & Developer] yang antusias dalam [Game Developer, FrontEnd, Backend, Android Developer]. Saya memiliki pengalaman dalam [Game Developer] dan selalu terbuka untuk belajar hal baru. Saya tertarik pada [Game] dan senang berbagi pengetahuan dan pengalaman saya dengan komunitas.
 
 ## Proyek Utama
 
@@ -24,13 +24,13 @@ Saya juga berkontribusi pada beberapa proyek open source. Berikut adalah beberap
 
 ## Blog dan Tulisan
 
-Saya senang menulis tentang pengalaman, tutorial, atau pemikiran saya di blog pribadi. Anda dapat membaca beberapa tulisan saya di [nama-blog](link-blog).
+Saya senang menulis tentang pengalaman, tutorial, atau pemikiran saya di blog pribadi. Anda dapat membaca beberapa tulisan saya di [nama-blog](BagasAuliaAlfasyam.github.io).
 
 ## Temukan Saya di Internet
 
 Anda dapat terhubung dengan saya di platform lainnya:
 
-- [LinkedIn](link-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/bagasauliaalfasyam/)
 - [Twitter](link-twitter)
 - [Instagram](link-instagram)
 - [Website Pribadi](link-website)
