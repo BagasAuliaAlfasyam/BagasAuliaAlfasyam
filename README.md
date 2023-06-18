@@ -37,6 +37,15 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
 - Email: Bagasaulia7@gmail.com
 - Pesan langsung di 082179736858
 
+## Alat dan Bahasa
+
+<p align="left">
+  <a href="https://github.com/bryankazuro04">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BagasAuliaAlfasyam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BagasAuliaAlfasyam&layout=compact&langs_count8=&theme=algolia"/>
+  </a>
+</p>
+
 ## Lisensi
 
 Proyek-proyek yang saya bagikan di sini dilisensikan di bawah [jenis lisensi]. Pastikan untuk membaca dan menghormati ketentuan lisensi masing-masing proyek.
