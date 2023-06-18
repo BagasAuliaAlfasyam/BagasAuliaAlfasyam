@@ -4,7 +4,7 @@
 
 ## Tentang Saya
 
-Salam! Saya [Bagas Aulia Alfasyam], seorang [Pelajar & Developer] yang antusias dalam [Game Developer, FrontEnd, Backend, Android Developer]. Saya memiliki pengalaman dalam [Game Developer] dan selalu terbuka untuk belajar hal baru. Saya tertarik pada [Game] dan senang berbagi pengetahuan dan pengalaman saya dengan komunitas.
+Salam! Saya Bagas Aulia Alfasyam, seorang Pelajar & Developer yang antusias dalam Game Developer, FrontEnd, Backend, Android Developer. Saya memiliki pengalaman dalam Game Developer dan selalu terbuka untuk belajar hal baru. Saya tertarik pada Game dan senang berbagi pengetahuan dan pengalaman saya dengan komunitas.
 
 ## Proyek Utama
 
