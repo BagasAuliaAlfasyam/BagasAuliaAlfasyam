@@ -27,7 +27,7 @@ Anda dapat terhubung dengan saya di platform lainnya:
 
 - [LinkedIn](https://www.linkedin.com/in/bagasauliaalfasyam/)
 - [Instagram](https://www.instagram.com/___agas_/)
-- [Website Pribadi](BagasAuliaAlfasyam.github.io/portofolio)
+- [Website Pribadi](bagason.site)
 
 ### Kontak
 
