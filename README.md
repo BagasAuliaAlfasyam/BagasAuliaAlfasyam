@@ -19,7 +19,7 @@
 
 ### Tentang Saya
 
-Salam! Saya Bagas Aulia Alfasyam, seorang Developer yang antusias dalam Game Development, Web Development (Frontend & Backend), Android Development, dan AI/Machine Learning. Saya memiliki pengalaman dalam pengembangan sistem rekomendasi, analisis sentimen, computer vision, dan predictive analytics menggunakan teknologi seperti TensorFlow, Scikit-learn, dan berbagai framework modern. Selalu bersemangat untuk belajar teknologi baru dan berkontribusi dalam proyek-proyek inovatif.
+Salam! Saya Bagas Aulia Alfasyam, seorang Developer yang antusias dalam Game Development, Web Development (Frontend & Backend), Android Development, dan AI/Machine Learning. Saya memiliki pengalaman dalam berbagai teknologi dan selalu bersemangat untuk belajar hal baru.
 
 ### Temukan Saya di Internet
 
@@ -136,6 +136,12 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
 <p align="center">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </p>
 
