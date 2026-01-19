@@ -71,6 +71,12 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> 
+  </a>
 </p>
 
 #### 🤖 AI/ML & Data Science
@@ -126,10 +132,20 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
   </a>
 </p>
 
+#### 📱 Mobile Development
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+  </a>
+</p>
+
 #### 🗄️ Database
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a>
 </p>
 
@@ -137,6 +153,9 @@ Jika Anda ingin berdiskusi atau bekerja sama dalam proyek, silakan hubungi saya 
 <p align="center">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" alt="adobe-xd" width="40" height="40"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
