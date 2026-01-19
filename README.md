@@ -26,7 +26,7 @@ Salam! Saya Bagas Aulia Alfasyam, seorang Developer yang antusias dalam Game Dev
 Anda dapat terhubung dengan saya di platform lainnya:
 
 - [LinkedIn](https://www.linkedin.com/in/bagasauliaalfasyam/)
-- [Instagram](https://www.instagram.com/___agas/)
+- [Instagram](https://www.instagram.com/___agas_/)
 - [Website Pribadi](bagason.site)
 
 ### Kontak
